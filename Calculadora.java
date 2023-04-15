@@ -14,7 +14,7 @@ public class Calculadora {
 
     }
     public static void showMenu(){
-        System.out.println("1.SUMAR");
+        System.out.println("1.SUMAR.");
         System.out.println("2.RESTAR");
         System.out.println("3.MULTIPLICAR");
         System.out.println("4.DIVIDIR");
